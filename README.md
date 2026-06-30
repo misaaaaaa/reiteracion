@@ -8,6 +8,12 @@ Una versión fue montada en agosto de 2025 en la exposición [Cuando todas las p
 
 ![imagen de instalación](./imagenes/reiteracion.png)
 
+## Instalación en PCD (Processing Commuity Day) 27 de junio 2026
+
+![reiteración en pcd](./imagenes/reiteracion-pcd.jpeg)
+
+Fotografía por Bernardita Lobo
+
 ---
 
 ## Descripción
